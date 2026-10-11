@@ -1,0 +1,2 @@
+# Bugbounty
+methodology
