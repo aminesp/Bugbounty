@@ -1,0 +1,6 @@
+1 . Start with the cache key is the unkeyed 
+2 . Read the cache headers : CF-Cache-Status: HIT
+3 . MISS TO HIT 
+4 . One Unkeyed header is enough when the page builds URLs from it . 
+5 . Their request matches the same key . The cache hands them your response . 
+6 . Full report : https://www.instagram.com/p/DdLjtZXiWuP/?img_index=14
